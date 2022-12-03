@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549542296864",
+    "firebase_url": "https://smartsensor-343416-default-rtdb.firebaseio.com",
+    "project_id": "smartsensor-343416",
+    "storage_bucket": "smartsensor-343416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549542296864:android:5abeea820ce023faa4eb45",
+        "android_client_info": {
+          "package_name": "com.example.SmartSensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549542296864-7vf5ph9drpfhfq5jkmidd5kr0crinjao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SmartSensor",
+            "certificate_hash": "b9432557e84c6990f3c3d0b0ad1f5eb686f705bc"
+          }
+        },
+        {
+          "client_id": "549542296864-uuamrf5ih86f0sjdqu99gar39ssc6u65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4q9MMLmuAVMhHa0S_6uyfNTiAbNbYpbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549542296864-uuamrf5ih86f0sjdqu99gar39ssc6u65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
