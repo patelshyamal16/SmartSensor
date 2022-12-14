@@ -8,7 +8,7 @@ The app and device were both connected to firebase storge, so when the device se
 Software side of the project was to create an application, add features that gives assistance to user in emergancy circumstances, add connection to firebase storage to retrieve images that were uploaded by the jetson nano device with date and time of the image was capture and establish connection from jetson nano to firebase to upload image after lidar sensor trigger the camera to capture image, was process through the machine learning and store the image temporary in jetson nano with time and date.
 when the image was successfully uploaded the image will be deleted from the jetson nano.
 
-Hardware side of the project was design a portable device schematic for 3D housing (that contains jetson nano microcontroller, camera, lidar sensor, battery and button), and next assembly every hardware parts to complete the protable SmartSensor device.
+Hardware side of the project was design a portable device schematic for 3D housing (that contains jetson nano microcontroller, arduino microcontoller, camera, lidar sensor, battery and button), and next assembly every hardware parts to complete the protable SmartSensor device.
 
 ## Features
 For example if a user was walking down the street at late night and user has this device stapped on the front of backpack, so the camera is facing opposite direction of the user. 
