@@ -12,9 +12,9 @@ Hardware side of the project was design a portable device schematic for 3D housi
 
 ## Features
 For example if a user was walking down the street at late night and user has this device stapped on the front of backpack, so the camera is facing opposite direction of the user. 
-If a stranger was following her for more than 3 mintues and in range of 5 meter of lidar sensor then the device will trigger the camera to capture a stable image. 
+If a stranger was following user for more than 3 mintues and in range of 5 meter of lidar sensor then the device will trigger the camera to capture a stable image. 
 After the device has capture image trigger machine learning algorithm process to recognize if it was a person or object in the image with help of jetson nano library of ML.
-At this time, the device will decide if the image should be discarded, if image does contain person then send to firebase storage,so the user can view the image 
+At this time, the device will decide if the image should be discarded, if image does contain person then send to firebase storage, so the user can view the image 
 or provide as evidence from the user's smartphone. 
 We added some extra features in the app that could help the user in various situation such as phone location (last location of the user), emergency helpline contacts,
 SOS ( there are two ways SOS can be used one way is a manually click the button and 
